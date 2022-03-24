@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tpmodul5_1302201131
+build_property.ProjectDir = B:\COLLEGE\S4 - PRAKTIKUM KPL\MOD 5\TP\KPL_TP_MOD5_SE4403_1302201131\tpmodul5_1302201131\tpmodul5_1302201131\
